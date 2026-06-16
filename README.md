@@ -18,7 +18,7 @@ profit, and regional performance trends.
 - **Custom theming**: Slicer styles, color palettes for readability
 
 ## Dashboard Preview
-![Dashboard Screenshot](ScreenShots/Screenshot%202026-06-13%20214726.png)
+![Dashboard Screenshot](https://github.com/Belal1khalil/superstore-sales-dashboard/blob/main/ScreenShots/Super%20Store%20Dashboard.png)
 
 ## Dataset
 Based on the Superstore sample dataset.
